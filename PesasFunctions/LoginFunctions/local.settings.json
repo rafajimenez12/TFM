@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SQL_CONNECTION_STRING": "Server=tcp:dbpesas12.database.windows.net;Database=TinkMainBBDD;User ID=rafa;;Password=Masteriot12"
+
+  }
+}
